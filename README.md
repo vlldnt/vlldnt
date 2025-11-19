@@ -1,7 +1,7 @@
-# 👋 Hello!  
-I'm **Adrien**, a full-stack developer curious about new technologies and eager to build practical projects.
+# 👋 Hi, I'm Adrien
 
-> Currently training at Holberton School, exploring different technologies to become a versatile developer.
+I'm a **full-stack developer** currently training at **Holberton School** to become a versatile and well-rounded software engineer.  
+Driven by curiosity, I enjoy experimenting with new technologies and creating web and mobile applications using clean architecture and modern tools.
 
 ---
 
