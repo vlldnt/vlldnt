@@ -1,17 +1,15 @@
-# 👋 Nice to meet you  
-I'm **Adrien**, full-stack developer.
+# 👋 Hello!  
+I'm **Adrien**, a full-stack developer curious about new technologies and eager to build practical projects.
 
-> ```txt
-> Currently training at Holberton School to become a versatile developer.
-> ```
+> Currently training at Holberton School, exploring different technologies to become a versatile developer.
 
 ---
 
 ## 🚀 Projects Spotlight
 
-### 🔹  — *Backend IAKOA*
-A single backend for the IAKOA platform, powering the web app, iOS app, and Android app. Built with Node.js, NestJS, TypeScript, PostgreSQL, and Prisma ORM.
-🔗 [IAKOA-backend](https://github.com/vlldnt/IAKOA-backend)
+### 🔹 Backend — *IAKOA*
+Backend for the IAKOA app and web platform, using **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL** and **Prisma ORM**.  
+🔗 [Repository](https://github.com/vlldnt/IAKOA-backend)
 
 <p>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge">
@@ -23,39 +21,57 @@ A single backend for the IAKOA platform, powering the web app, iOS app, and Andr
 
 ---
 
-### 🔹 Holberton School — *IAKOA iOS App*
-IAKOA iOS app written in **Swift**, using **Firebase** as backend. Final solo project during Holberton School fundamentals.  
-🔗 [IAKOA – iOS App](https://github.com/vlldnt/Portfolio-IAKOA)
+### 🔹 iOS App — *IAKOA*
+IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for backend support.  
+🔗 [Repository](https://github.com/vlldnt/Portfolio-IAKOA)
 
 <p>
   <img src="https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/SwiftUI-5ac8fa?logo=swift&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/FIREBASE-ffca28?logo=firebase&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/XCODE-147efb?logo=xcode&logoColor=white&style=for-the-badge">
 </p>
 
 ---
 
-### 🔹 Wow Addon — *XPTracker Classic MoP*
+### 🔹 Project 3 — *Next Project*
+Short description of the project.  
+🔗 [Repository](#)
 
-A beginner-friendly solo Lua project: a World of Warcraft : MoP Classic addon that tracks your XP rate, time to next level, session duration, and more—displayed directly on screen.
-🔗 [XP Tracker - WoW Clasic MoP Addon]([https://github.com/vlldnt/Portfolio-IAKOA](https://github.com/vlldnt/XPTrackerClassicMoP))
-
-<p> <img src="https://img.shields.io/badge/LUA-2C2D72?logo=lua&logoColor=white&style=for-the-badge"> </p>
+<p>
+  <img src="https://img.shields.io/badge/TECHNOLOGY-000000?logo=github&logoColor=white&style=for-the-badge">
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tools & Platforms
 
 <p align="center">
-  <img height="145em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlldnt&layout=compact&bg_color=00000000&hide_border=true&hide_title=true&hide=shaderlab">
+  <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img height="145em" 
-       src="https://github-readme-stats.vercel.app/api?username=vlldnt&bg_color=00000000&hide_border=true&hide_title=true&hide=contribs">
+  <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/OBSIDIAN-7c3aed?logo=obsidian&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/VS_CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge">
 </p>
 
 ---
 
-## 🎯 Future Goals
-`Specializing in Full-Stack development in 2026.`
+## 🧠 Languages & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SwiftUI-5ac8fa?logo=swift&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=000000&style=for-the-badge">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/NESTJS-e0234e?logo=nestjs
