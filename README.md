@@ -7,9 +7,8 @@ Driven by curiosity, I enjoy experimenting with new technologies and creating we
 
 ## 🚀 Projects Spotlight
 
-### 🔹 Backend — *IAKOA*
+### 🔹 [Backend — IAKOA](https://github.com/vlldnt/IAKOA-backend)
 Backend for the IAKOA app and web platform, using **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL** and **Prisma ORM**.  
-🔗 [Repository](https://github.com/vlldnt/IAKOA-backend)
 
 <p>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge">
@@ -21,9 +20,8 @@ Backend for the IAKOA app and web platform, using **Node.js**, **NestJS**, **Typ
 
 ---
 
-### 🔹 iOS App — *IAKOA*
+### 🔹 [iOS App — IAKOA](https://github.com/vlldnt/Portfolio-IAKOA)
 IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for backend support.  
-🔗 [Repository](https://github.com/vlldnt/Portfolio-IAKOA)
 
 <p>
   <img src="https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=for-the-badge">
@@ -34,46 +32,9 @@ IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for bac
 
 ---
 
-### 🔹 XP Tracker — *Classic MoP*
+### 🔹 [XP Tracker — Classic MoP](https://github.com/vlldnt/XPTrackerClassicMoP)
 An addon for `World of Warcraft - Mist of Pandaria Classic`, that displays your current XP rate, estimated time to the next level, session duration, and other useful stats. Includes pause/reset controls and a configurable panel.  
-
-🔗 [Repository](https://github.com/vlldnt/XPTrackerClassicMoP)
 
 <p>
   <img src="https://img.shields.io/badge/LUA-2c2d72?logo=lua&logoColor=white&style=for-the-badge">
 </p>
-
-
----
-
-## 🛠️ Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/APPLE-000000?logo=apple&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/LINUX-fcc624?logo=linux&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/WINDOWS-0078d4?logo=windows&logoColor=white&style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DISCORD-5865f2?logo=discord&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/OBSIDIAN-7c3aed?logo=obsidian&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/VIM-019733?logo=vim&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/VS_CODE-007acc?logo=visualstudiocode&logoColor=white&style=for-the-badge">
-</p>
-
----
-
-## 🧠 Languages & Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776ab?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?logo=javascript&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SwiftUI-5ac8fa?logo=swift&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/REACT-61dafb?logo=react&logoColor=000000&style=for-the-badge">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/NESTJS-e0234e?logo=nestjs
