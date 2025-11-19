@@ -34,13 +34,15 @@ IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for bac
 
 ---
 
-### 🔹 Project 3 — *Next Project*
-Short description of the project.  
-🔗 [Repository](#)
+### 🔹 XP Tracker — *Classic MoP*
+An addon for `World of Warcraft - Mist of Pandaria Classic`, that displays your current XP rate, estimated time to the next level, session duration, and other useful stats. Includes pause/reset controls and a configurable panel.  
+
+🔗 [Repository](https://github.com/vlldnt/XPTrackerClassicMoP)
 
 <p>
-  <img src="https://img.shields.io/badge/TECHNOLOGY-000000?logo=github&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/LUA-2c2d72?logo=lua&logoColor=white&style=for-the-badge">
 </p>
+
 
 ---
 
