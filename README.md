@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adrien
 
-I'm a **full-stack developer** currently training at **Holberton School** to become a versatile and well-rounded software engineer.  
+I'm a **Software Engineer** currently training at **Holberton School** to become a versatile and well-rounded software engineer.  
 Driven by curiosity, I enjoy experimenting with new technologies and creating web and mobile applications using clean architecture and modern tools.
 
 ---
