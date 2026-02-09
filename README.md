@@ -7,7 +7,7 @@ Driven by curiosity, I enjoy experimenting with new technologies and creating we
 
 ## 🚀 Projects Spotlight
 
-### 🔹 [Backend — IAKOA](https://github.com/vlldnt/IAKOA-backend)
+### 🔹 [WebApp — IAKOA](https://github.com/vlldnt/IAKOA-full_stack)
 Backend for the IAKOA app and web platform, using **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL** and **Prisma ORM**.  
 
 <p>
