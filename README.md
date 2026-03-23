@@ -11,11 +11,11 @@ Driven by curiosity, I enjoy experimenting with new technologies and creating we
 Backend for the IAKOA app and web platform, using **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL** and **Prisma ORM**.  
 
 <p>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/NESTJS-e0234e?logo=nestjs&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169e1?logo=postgresql&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/PRISMA-2d3748?logo=prisma&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/NESTJS-e0234e?logo=nestjs&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169e1?logo=postgresql&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/PRISMA-2d3748?logo=prisma&logoColor=white&style=flat-square">
 </p>
 
 ---
@@ -26,10 +26,10 @@ IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for bac
 Here the landing page of the app : [IAKOA - iOS App](https://vieilledent.eu/iakoa/)
 
 <p>
-  <img src="https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/SwiftUI-5ac8fa?logo=swift&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/FIREBASE-ffca28?logo=firebase&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/XCODE-147efb?logo=xcode&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/SwiftUI-5ac8fa?logo=swift&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/FIREBASE-ffca28?logo=firebase&logoColor=black&style=flat-square">
+  <img src="https://img.shields.io/badge/XCODE-147efb?logo=xcode&logoColor=white&style=flat-square">
 </p>
 
 ---
@@ -40,7 +40,7 @@ A **web tool** to import **GPX files** and visualize your **routes, altitude, sp
 Try it online: [https://vlldnt.github.io/gpxtooth/](https://vlldnt.github.io/gpxtooth/)
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
 </p>
