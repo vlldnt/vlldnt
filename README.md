@@ -32,10 +32,13 @@ IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for bac
 
 ---
 
-### 🔹 [XP Tracker — Classic MoP](https://github.com/vlldnt/XPTrackerClassicMoP)
-A **World of Warcraft - Mist of Pandaria Classic** addon developed in **Lua**.  
-It tracks your current XP rate, estimated time to the next level, session duration, and other relevant stats.  
+### 🔹 [GPXTooth](https://github.com/vlldnt/gpxtooth)
+
+A **web tool** to import **GPX files** and visualize your **routes, altitude, speed, and heart rate** with **interactive charts** on **OSM, Topo, and Satellite maps**.  
+Try it online: [https://vlldnt.github.io/gpxtooth/](https://vlldnt.github.io/gpxtooth/)
 
 <p>
-  <img src="https://img.shields.io/badge/LUA-2c2d72?logo=lua&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
 </p>
