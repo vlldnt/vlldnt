@@ -22,6 +22,7 @@ Backend for the IAKOA app and web platform, using **Node.js**, **NestJS**, **Typ
 
 ### 🔹 [iOS App — IAKOA](https://github.com/vlldnt/Portfolio-IAKOA)
 IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for backend support.
+
 Here the landing page of the app : [IAKOA - iOS App](https://vieilledent.eu/iakoa/)
 
 <p>
