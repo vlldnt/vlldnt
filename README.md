@@ -3,6 +3,8 @@
 I'm a **Software Engineer** currently training at **Holberton School** to become a versatile and well-rounded software engineer.  
 Driven by curiosity, I enjoy experimenting with new technologies and creating web and mobile applications using clean architecture and modern tools.
 
+[My personal website](https://vieilledent.eu/)
+
 ---
 
 ## 🚀 Projects Spotlight
