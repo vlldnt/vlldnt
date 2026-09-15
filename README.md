@@ -1,48 +1,66 @@
-# 👋 Hi, I'm Adrien
+<h1>
+  <a href="https://vieilledent.eu/"><img src="https://vieilledent.eu/assets/logos/dent.png" alt="vieilledent.eu" height="40" align="center"></a>
+  &nbsp;Hi, I'm Adrien
+</h1>
 
-I'm a **Software Engineer** currently training at **Holberton School** to become a versatile and well-rounded software engineer.  
-Driven by curiosity, I enjoy experimenting with new technologies and creating web and mobile applications using clean architecture and modern tools.
-
-[My personal website](https://vieilledent.eu/)
-
----
-
-## 🚀 Projects Spotlight
-
-### 🔹 [WebApp — IAKOA](https://github.com/vlldnt/IAKOA-full_stack)
-Backend for the IAKOA app and web platform, using **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL** and **Prisma ORM**.  
+**Full-Stack Developer** — I build web and mobile applications end to end, from the database to the interface, with clean architecture and modern tools.
 
 <p>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178c6?logo=typescript&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?logo=node.js&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/NESTJS-e0234e?logo=nestjs&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169e1?logo=postgresql&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/PRISMA-2d3748?logo=prisma&logoColor=white&style=flat-square">
+  <a href="https://vieilledent.eu/"><img src="https://vieilledent.eu/assets/logos/dent.png" alt="Website" height="32"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/adrien-vieilledent-791b39346/"><img src="https://vieilledent.eu/assets/logos/linkedin.svg" alt="LinkedIn" height="32"></a>
+  &nbsp;
+  <a href="https://github.com/vlldnt"><img src="https://vieilledent.eu/assets/logos/github.svg" alt="GitHub" height="32"></a>
 </p>
 
 ---
 
-### 🔹 [iOS App — IAKOA](https://github.com/vlldnt/Portfolio-IAKOA)
-IAKOA iOS app developed in **Swift** and **SwiftUI**, using **Firebase** for backend support.
+## Projects Spotlight
 
-Here the landing page of the app : [IAKOA - iOS App](https://vieilledent.eu/iakoa/)
+<h3>
+  <img src="https://synapses-esms.fr/favicon.png" alt="Synapses ESMS logo" height="28" align="center">
+  &nbsp;<a href="https://synapses-esms.fr">Synapses ESMS</a>
+</h3>
+
+AI-assisted professional writing for the **social and medico-social sector**. Generates reports, care plans and meeting minutes from a few key inputs, and **anonymizes personal data before anything reaches the AI** (GDPR-compliant).
+Multi-organization with strict data isolation, role management, real-time voice dictation, Word/PDF export, installable PWA.
+
+🌐 [synapses-esms.fr](https://synapses-esms.fr)
 
 <p>
-  <img src="https://img.shields.io/badge/SWIFT-f05138?logo=swift&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/SwiftUI-5ac8fa?logo=swift&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/FIREBASE-ffca28?logo=firebase&logoColor=black&style=flat-square">
-  <img src="https://img.shields.io/badge/XCODE-147efb?logo=xcode&logoColor=white&style=flat-square">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="34">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="34">
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="34">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="34">
+  <img src="assets/mistral.svg" alt="Mistral AI" title="Mistral AI" height="34">
 </p>
+
+<br>
 
 ---
 
-### 🔹 [GPXTooth](https://github.com/vlldnt/gpxtooth)
+<h3>
+  <img src="https://gpxtooth.vieilledent.eu/assets/logoGPXTooth.png" alt="GPXTooth logo" height="28" align="center">
+  &nbsp;<a href="https://gpxtooth.vieilledent.eu">GPXTooth</a>
+</h3>
 
-A **web tool** to import **GPX files** and visualize your **routes, altitude, speed, and heart rate** with **interactive charts** on **OSM, Topo, and Satellite maps**.  
-Try it online: [https://vlldnt.github.io/gpxtooth/](https://vlldnt.github.io/gpxtooth/)
+A GPS dashboard to import **GPX files** and explore your **routes, altitude, speed and heart rate** through interactive charts on **OSM, Topo and Satellite** maps.
+
+🌐 [gpxtooth.vieilledent.eu](https://gpxtooth.vieilledent.eu) · 💻 [Source code](https://github.com/vlldnt/gpxtooth)
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" height="34">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" height="34">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="34">
 </p>
+
+<br>
+
+---
+
+## My Other Projects
+
+| | Project | Description | Status |
+|:-:|---|---|:-:|
+| <img src="https://vieilledent.eu/iakoa/images/icon-iakoa.png" alt="IAKOA" height="24"> | [**IAKOA — iOS App**](https://github.com/vlldnt/Portfolio-IAKOA) · [landing page](https://vieilledent.eu/iakoa/) | Local event discovery app in Swift / SwiftUI with Firebase | ⏸️ On hold |
+| <img src="https://vieilledent.eu/iakoa/images/icon-iakoa.png" alt="IAKOA" height="24"> | [**IAKOA — Web App**](https://github.com/vlldnt/IAKOA-full_stack) | Web platform and API with NestJS, TypeScript, PostgreSQL and Prisma | ⏸️ On hold |
